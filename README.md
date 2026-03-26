@@ -23,8 +23,7 @@ https://data.mendeley.com/datasets/6z2hty8php/1
 - Hyperparameter tuning for improved model performance
 - Ensemble learning using Voting Classifier (soft voting)
 - Model evaluation using Accuracy, Precision, Recall, and F1-score
-- Feature importance analysis using Random Forest
 - Visual comparison of model performance
 
 **Results**
-The models were evaluated using multiple performance metrics, with the Voting Classifier achieving the best performance at 84.52 % accuracy and 84.47% F1-score, followed closely by Random Forest with 82.85% accuracy. Logistic Regression also performed strongly with over 85% accuracy. The use of SMOTE for class balancing and hyperparameter tuning significantly improved model performance. Overall, the pipeline demonstrates strong predictive capability and provides reliable insights for identifying employees at risk of attrition.
+The models were evaluated using multiple performance metrics, with the Voting Classifier achieving the best performance at 84.52 % accuracy and 84.47% F1-score, followed closely by Random Forest with 82.85% accuracy. Logistic Regression also performed strongly with over 85% accuracy. 
